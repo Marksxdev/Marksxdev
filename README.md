@@ -71,10 +71,3 @@
 
 ---
 
-> “Code, commit, repeat.” — eu, provavelmente.
-
----
-
-**Dica ninja**: passe esse README por um gerador como `readme-md-generator` ou integre com GitHub Actions pra atualizar stats automaticamente.
-
-Se quiser dar o próximo nível com badges animadas, atividade diária ou imgs inline dos seus projetos, só chamar.
